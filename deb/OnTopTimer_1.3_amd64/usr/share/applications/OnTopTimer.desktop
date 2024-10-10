@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OnTopTimer
+GenericName=OnTopTimer
+Comment=Application showing the time on top of another applications
+Exec=OnTopTimer
+Icon=OnTopTimer
+Terminal=false
+Type=Application
+Keywords=top;timer
+Categories=Office

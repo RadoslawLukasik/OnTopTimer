@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OnTopTimer 1.3.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Radosław Łukasik <radoslawlukasik@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Options"
+msgstr "Opcje"
+
+msgid "No seconds"
+msgstr "Bez sekund"
+
+msgid "Font size"
+msgstr "Rozmiar czcionki"
+
+msgid "Horizontal position (%)"
+msgstr "Pozycja w poziomie (%)"
+
+msgid "Vertical position (%)"
+msgstr "Pozycja w pionie (%)"
+
+msgid "Font color"
+msgstr "Kolor czcionki"
+
+msgid "Background color"
+msgstr "Kolor tła"
+
+msgid "Alarm font color"
+msgstr "Kolor czcionki alarmu"
+
+msgid "Alarm background color"
+msgstr "Kolor tła alarmu"
+
+msgid "Save"
+msgstr "Zapisz"
+
+msgid "Cancel"
+msgstr "Zamknij"
+
+msgid "Stopwatch instead of clock"
+msgstr "Stoper zamiast zegara"
+
+msgid "Stopwatch alarm"
+msgstr "Alarm stopera"
+
+msgid "Stopwatch alarm time (H:M:S)"
+msgstr "Czas alarmu stoppera (H:M:S)"
+
+msgid "Clock alarm"
+msgstr "Alarm zegara"
+
+msgid "Clock alarm time (H:M:S)"
+msgstr "Czas alarmu zegara (H:M:S)"
+
+msgid "Clock alarm duration (in seconds)"
+msgstr "Czas trwania alarmu zegara (w sekundach)"
+
+msgid "RMB opens the options window\nLMB start/pause the stopwatch\nMMB resetting the stopwatch/hide the clock's alarm\nCtrl+RMB close the program"
+msgstr "PPM otwarcie okna opcji\nLPM uruchomienie/wstrzymanie stopera\nŚPM zresetowanie stopera/ukrycie alarmu zegara\nCtrl+PPM zamknięcie programu"
